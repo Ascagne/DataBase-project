@@ -44,6 +44,8 @@ class TestComputeVariables:
         for fs in STR:
             for f in fs:
                 free_var, bound_var = getVariables(f)
+                free_var.sort()
+                bound_var.sort()
                 assert free_var == bound_var
                 
     def test_x_is_free(self):
