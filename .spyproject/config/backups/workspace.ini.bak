@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['src\\getVariables.py', 'examples\\exampleGetVariables.py', 'tests\\test_getVariables.py', 'src\\structure\\table.py', 'examples\\exampleVisitor.py', 'examples\\exampleTables.py', 'src\\utils\\fo_parser.py', 'src\\utils\\formula_to_string.py', 'examples\\examplePatternMatching.py', 'examples\\exampleEvaluables.py', 'src\\evaluables\\quantified.py', 'tests\\test_evals.py', 'src\\evaluables\\constant.py', 'src\\evaluables\\variable.py', 'src\\filmDatabase.py', 'src\\eval_methods\\evalPatternMatching.py', 'src\\evaluables\\neg.py', 'src\\eval_methods\\evalVisitor.py', 'examples\\exampleFormulas.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
